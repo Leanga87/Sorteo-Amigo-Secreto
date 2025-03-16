@@ -1,4 +1,4 @@
-Sorteo de Amigo Secreto
+<h1>Sorteo de Amigo Secreto</h1>
 
 Este es un sencillo proyecto en JavaScript que permite agregar nombres a una lista y realizar un sorteo para elegir un "Amigo Secreto".
 
