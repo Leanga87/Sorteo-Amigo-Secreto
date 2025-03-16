@@ -18,7 +18,7 @@ Se necesita al menos 4 nombres para realizar el sorteo.
 
 Posibilidad de reiniciar el sorteo y limpiar la lista.
 ![sorteo realizado](https://github.com/user-attachments/assets/b515d36c-35c7-4028-a200-829f7c520d99)
-Autor: Leandro Puebla Martinez
+
 
 Tecnologías utilizadas
 
@@ -27,3 +27,5 @@ HTML
 CSS
 
 JavaScript
+
+Autor: Leandro Puebla Martinez
