@@ -28,4 +28,5 @@ CSS
 
 JavaScript
 
-Autor: Leandro Puebla Martinez
+Autor HTML Y CSSS: Alura Latam
+Creador Codigo JavaScript: Leandro Puebla Martinez
